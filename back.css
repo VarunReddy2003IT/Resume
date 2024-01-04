@@ -1,0 +1,20 @@
+body{
+    margin: 40px 450px 40px 420px;
+    border: 2px solid black;
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+hr{
+    width: 600px;
+    margin-left: 0px;
+    border:1px solid black;
+    border-collapse: collapse;
+}
+table,tr,td{
+    margin-right: 40px;
+    border:1px solid black;
+    border-collapse: collapse;
+}
+abbr{
+    text-decoration: none;
+}
